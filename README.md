@@ -4,7 +4,6 @@
 
 > :books: :pencil: :bulb:.
 
-
 ## Stack
 
 - Task Runner: [Gulp](http://gulpjs.com/)
