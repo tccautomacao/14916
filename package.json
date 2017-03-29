@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/tccautomacao/14916/issues"
   },
-  "homepage": "https://github.com/tccautomacao/14916#readme"
+  "homepage": "https://github.com/tccautomacao/14916#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-stylus": "^2.6.0"
+  }
 }
